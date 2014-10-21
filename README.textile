@@ -1,0 +1,7 @@
+This scraper gets details of actors and the roles they played in productions of Shakespeare from the "Designing Shakespeare" website "Designing Shakespeare":http://www.ahds.rhul.ac.uk/ahdscollections/
+
+Designing Shakespeare was originally an AHDS (Arts and Humanities Data Service) project, which is now hosted by RHUL (Royal Holloway, University of London). The site contains information about productions, pictures from productions, interviews with designers and even VRML models of the key theatres spaces. However, all of this material is subject to copyright.
+
+No mention of the copyright status of the cast lists is made, and the intention of this scraper is to enable interested parties to link back to the Designing Shakespeare site.
+
+This scraper was created as part of #willhack, a online hackathon run by EDINA ("Wills World":http://willsworld.edina.ac.uk) as part of the JISC Discovery program ("Discovery":http://discovery.ac.uk) in December 2012.
